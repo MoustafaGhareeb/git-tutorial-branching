@@ -3,4 +3,8 @@ another conflict branch 1
 feature 1
 feature 4
 feature 6
+<<<<<<< HEAD
 feature 8
+=======
+feature 7
+>>>>>>> master
